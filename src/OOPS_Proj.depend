@@ -1,0 +1,362 @@
+# depslib dependency file v1.0
+1447794297 source:g:\oops_project\oops_proj\bishop.cpp
+	"bishop.h"
+
+1448305234 g:\oops_project\oops_proj\bishop.h
+	<iostream>
+	"piece.h"
+	"square.h"
+
+1448305235 g:\oops_project\oops_proj\piece.h
+	<ostream>
+	"square.h"
+	"board.h"
+
+1447787183 g:\oops_project\oops_proj\square.h
+
+1447785601 g:\oops_project\oops_proj\board.h
+	<ostream>
+	"square.h"
+
+1447785773 source:g:\oops_project\oops_proj\board.cpp
+	<cmath>
+	"board.h"
+	"piece.h"
+
+1447785554 source:g:\oops_project\oops_proj\game.cpp
+	"game.h"
+	"queen.h"
+	"bishop.h"
+	"knight.h"
+	"rook.h"
+	"pawn.h"
+	"king.h"
+	"square.h"
+	"player.h"
+
+1447785528 g:\oops_project\oops_proj\game.h
+	<set>
+	<iostream>
+	"board.h"
+	"piece.h"
+	"player.h"
+
+1447786214 g:\oops_project\oops_proj\player.h
+	<set>
+	"piece.h"
+	"king.h"
+
+1448305235 g:\oops_project\oops_proj\king.h
+	<iostream>
+	"restricted_piece.h"
+
+1447787054 g:\oops_project\oops_proj\restricted_piece.h
+	<iostream>
+	"piece.h"
+
+1447786917 g:\oops_project\oops_proj\queen.h
+	<iostream>
+	"square.h"
+	"piece.h"
+
+1447785576 g:\oops_project\oops_proj\knight.h
+	<iostream>
+	"square.h"
+	"piece.h"
+
+1447787162 g:\oops_project\oops_proj\rook.h
+	<iostream>
+	"restricted_piece.h"
+	"square.h"
+
+1447786056 g:\oops_project\oops_proj\pawn.h
+	<iostream>
+	"square.h"
+	"restricted_piece.h"
+
+1447785746 source:g:\oops_project\oops_proj\king.cpp
+	<cmath>
+	"king.h"
+
+1447794297 source:g:\oops_project\oops_proj\knight.cpp
+	"knight.h"
+	<cmath>
+
+1447785680 source:g:\oops_project\oops_proj\main.cpp
+	<iostream>
+	"game.h"
+	"board.h"
+
+1447786036 source:g:\oops_project\oops_proj\pawn.cpp
+	"pawn.h"
+	"queen.h"
+	"board.h"
+
+1447788551 source:g:\oops_project\oops_proj\piece.cpp
+	"player.h"
+	"restricted_piece.h"
+	<string>
+	"piece.h"
+	"player.h"
+
+1447786947 source:g:\oops_project\oops_proj\player.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+	"game.h"
+
+1447787340 source:g:\oops_project\oops_proj\queen.cpp
+	"queen.h"
+
+1447787000 source:g:\oops_project\oops_proj\restricted_piece.cpp
+	"player.h"
+	"restricted_piece.h"
+
+1447787111 source:g:\oops_project\oops_proj\rook.cpp
+	"rook.h"
+
+1447787540 source:g:\oops_project\oops_proj\square.cpp
+	"piece.h"
+	"square.h"
+
+1448305235 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\bishop.cpp
+	"bishop.h"
+
+1448305234 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\bishop.h
+	<iostream>
+	"piece.h"
+	"square.h"
+
+1448305235 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\piece.h
+	<ostream>
+	"square.h"
+	"board.h"
+
+1447787183 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\square.h
+
+1447785601 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\board.h
+	<ostream>
+	"square.h"
+
+1447785773 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\board.cpp
+	<cmath>
+	"board.h"
+	"piece.h"
+
+1447785554 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\game.cpp
+	"game.h"
+	"queen.h"
+	"bishop.h"
+	"knight.h"
+	"rook.h"
+	"pawn.h"
+	"king.h"
+	"square.h"
+	"player.h"
+
+1447785528 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\game.h
+	<set>
+	<iostream>
+	"board.h"
+	"piece.h"
+	"player.h"
+
+1447786214 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\player.h
+	<set>
+	"piece.h"
+	"king.h"
+
+1448305235 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\king.h
+	<iostream>
+	"restricted_piece.h"
+
+1447787054 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\restricted_piece.h
+	<iostream>
+	"piece.h"
+
+1447786917 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\queen.h
+	<iostream>
+	"square.h"
+	"piece.h"
+
+1447785576 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\knight.h
+	<iostream>
+	"square.h"
+	"piece.h"
+
+1447787162 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\rook.h
+	<iostream>
+	"restricted_piece.h"
+	"square.h"
+
+1447786056 c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\pawn.h
+	<iostream>
+	"square.h"
+	"restricted_piece.h"
+
+1448305235 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\king.cpp
+	<cmath>
+	"king.h"
+
+1447794297 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\knight.cpp
+	"knight.h"
+	<cmath>
+
+1447785680 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\main.cpp
+	<iostream>
+	"game.h"
+	"board.h"
+
+1447786036 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\pawn.cpp
+	"pawn.h"
+	"queen.h"
+	"board.h"
+
+1448891067 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\piece.cpp
+	"player.h"
+	"restricted_piece.h"
+	<string>
+	"piece.h"
+	"player.h"
+
+1447786947 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\player.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+	"game.h"
+
+1447787340 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\queen.cpp
+	"queen.h"
+
+1447787000 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\restricted_piece.cpp
+	"player.h"
+	"restricted_piece.h"
+
+1447787111 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\rook.cpp
+	"rook.h"
+
+1447787540 source:c:\users\hrishikesh\desktop\codes\oops_proj\oops_proj\square.cpp
+	"piece.h"
+	"square.h"
+
+1448305235 source:e:\projects\oops_proj\oops_proj\bishop.cpp
+	"bishop.h"
+
+1448305234 e:\projects\oops_proj\oops_proj\bishop.h
+	<iostream>
+	"piece.h"
+	"square.h"
+
+1448305235 e:\projects\oops_proj\oops_proj\piece.h
+	<ostream>
+	"square.h"
+	"board.h"
+
+1447787183 e:\projects\oops_proj\oops_proj\square.h
+
+1447785601 e:\projects\oops_proj\oops_proj\board.h
+	<ostream>
+	"square.h"
+
+1448904693 source:e:\projects\oops_proj\oops_proj\board.cpp
+	<cmath>
+	<cstdlib>
+	"board.h"
+	"piece.h"
+
+1448997431 source:e:\projects\oops_proj\oops_proj\game.cpp
+	"game.h"
+	"queen.h"
+	"bishop.h"
+	"knight.h"
+	"rook.h"
+	"pawn.h"
+	"king.h"
+	"square.h"
+	"player.h"
+
+1447785528 e:\projects\oops_proj\oops_proj\game.h
+	<set>
+	<iostream>
+	"board.h"
+	"piece.h"
+	"player.h"
+
+1447786214 e:\projects\oops_proj\oops_proj\player.h
+	<set>
+	"piece.h"
+	"king.h"
+
+1448305235 e:\projects\oops_proj\oops_proj\king.h
+	<iostream>
+	"restricted_piece.h"
+
+1447787054 e:\projects\oops_proj\oops_proj\restricted_piece.h
+	<iostream>
+	"piece.h"
+
+1447786917 e:\projects\oops_proj\oops_proj\queen.h
+	<iostream>
+	"square.h"
+	"piece.h"
+
+1447785576 e:\projects\oops_proj\oops_proj\knight.h
+	<iostream>
+	"square.h"
+	"piece.h"
+
+1447787162 e:\projects\oops_proj\oops_proj\rook.h
+	<iostream>
+	"restricted_piece.h"
+	"square.h"
+
+1447786056 e:\projects\oops_proj\oops_proj\pawn.h
+	<iostream>
+	"square.h"
+	"restricted_piece.h"
+
+1448993512 source:e:\projects\oops_proj\oops_proj\king.cpp
+	<cmath>
+	"king.h"
+
+1448914478 source:e:\projects\oops_proj\oops_proj\knight.cpp
+	"knight.h"
+	<cmath>
+
+1447785680 source:e:\projects\oops_proj\oops_proj\main.cpp
+	<iostream>
+	"game.h"
+	"board.h"
+
+1447786036 source:e:\projects\oops_proj\oops_proj\pawn.cpp
+	"pawn.h"
+	"queen.h"
+	"board.h"
+
+1448891067 source:e:\projects\oops_proj\oops_proj\piece.cpp
+	"player.h"
+	"restricted_piece.h"
+	<string>
+	"piece.h"
+	"player.h"
+
+1449002452 source:e:\projects\oops_proj\oops_proj\player.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+	"game.h"
+
+1447787340 source:e:\projects\oops_proj\oops_proj\queen.cpp
+	"queen.h"
+
+1447787000 source:e:\projects\oops_proj\oops_proj\restricted_piece.cpp
+	"player.h"
+	"restricted_piece.h"
+
+1447787111 source:e:\projects\oops_proj\oops_proj\rook.cpp
+	"rook.h"
+
+1449002459 source:e:\projects\oops_proj\oops_proj\square.cpp
+	"piece.h"
+	"square.h"
+
